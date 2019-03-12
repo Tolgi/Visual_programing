@@ -1,0 +1,9 @@
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\RacingGame\RacingGame\bin\Debug\RacingGame.exe.config
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\RacingGame\RacingGame\bin\Debug\RacingGame.exe
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\RacingGame\RacingGame\bin\Debug\RacingGame.pdb
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\RacingGame\RacingGame\obj\Debug\RacingGame.csprojResolveAssemblyReference.cache
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\RacingGame\RacingGame\obj\Debug\RacingGame.Form1.resources
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\RacingGame\RacingGame\obj\Debug\RacingGame.Properties.Resources.resources
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\RacingGame\RacingGame\obj\Debug\RacingGame.csproj.GenerateResource.Cache
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\RacingGame\RacingGame\obj\Debug\RacingGame.exe
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\RacingGame\RacingGame\obj\Debug\RacingGame.pdb

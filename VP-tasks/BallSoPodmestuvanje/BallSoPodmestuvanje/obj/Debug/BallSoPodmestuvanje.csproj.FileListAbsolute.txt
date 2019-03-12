@@ -1,0 +1,9 @@
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\BallSoPodmestuvanje\BallSoPodmestuvanje\bin\Debug\BallSoPodmestuvanje.exe.config
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\BallSoPodmestuvanje\BallSoPodmestuvanje\bin\Debug\BallSoPodmestuvanje.exe
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\BallSoPodmestuvanje\BallSoPodmestuvanje\bin\Debug\BallSoPodmestuvanje.pdb
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\BallSoPodmestuvanje\BallSoPodmestuvanje\obj\Debug\BallSoPodmestuvanje.csprojResolveAssemblyReference.cache
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\BallSoPodmestuvanje\BallSoPodmestuvanje\obj\Debug\BallSoPodmestuvanje.Form1.resources
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\BallSoPodmestuvanje\BallSoPodmestuvanje\obj\Debug\BallSoPodmestuvanje.Properties.Resources.resources
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\BallSoPodmestuvanje\BallSoPodmestuvanje\obj\Debug\BallSoPodmestuvanje.csproj.GenerateResource.Cache
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\BallSoPodmestuvanje\BallSoPodmestuvanje\obj\Debug\BallSoPodmestuvanje.exe
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\BallSoPodmestuvanje\BallSoPodmestuvanje\obj\Debug\BallSoPodmestuvanje.pdb

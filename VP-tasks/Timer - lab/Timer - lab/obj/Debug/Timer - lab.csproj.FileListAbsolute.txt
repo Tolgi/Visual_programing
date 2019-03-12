@@ -1,0 +1,10 @@
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\Timer - lab\Timer - lab\bin\Debug\Timer - lab.exe.config
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\Timer - lab\Timer - lab\bin\Debug\Timer - lab.exe
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\Timer - lab\Timer - lab\bin\Debug\Timer - lab.pdb
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\Timer - lab\Timer - lab\obj\Debug\Timer - lab.csprojResolveAssemblyReference.cache
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\Timer - lab\Timer - lab\obj\Debug\Timer___lab.Form1.resources
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\Timer - lab\Timer - lab\obj\Debug\Timer___lab.Properties.Resources.resources
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\Timer - lab\Timer - lab\obj\Debug\Timer - lab.csproj.GenerateResource.Cache
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\Timer - lab\Timer - lab\obj\Debug\Timer - lab.exe
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\Timer - lab\Timer - lab\obj\Debug\Timer - lab.pdb
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\Timer - lab\Timer - lab\obj\Debug\Timer___lab.NajdobriIgraci.resources

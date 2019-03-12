@@ -1,0 +1,10 @@
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\F1Race\F1Race\bin\Debug\F1Race.exe.config
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\F1Race\F1Race\bin\Debug\F1Race.exe
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\F1Race\F1Race\bin\Debug\F1Race.pdb
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\F1Race\F1Race\obj\Debug\F1Race.csprojResolveAssemblyReference.cache
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\F1Race\F1Race\obj\Debug\F1Race.AddDriver.resources
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\F1Race\F1Race\obj\Debug\F1Race.Form1.resources
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\F1Race\F1Race\obj\Debug\F1Race.Properties.Resources.resources
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\F1Race\F1Race\obj\Debug\F1Race.csproj.GenerateResource.Cache
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\F1Race\F1Race\obj\Debug\F1Race.exe
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\F1Race\F1Race\obj\Debug\F1Race.pdb

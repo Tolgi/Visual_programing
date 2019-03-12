@@ -1,0 +1,10 @@
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\potrosuvacka kosnicka\potrosuvacka kosnicka\bin\Debug\potrosuvacka kosnicka.exe.config
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\potrosuvacka kosnicka\potrosuvacka kosnicka\bin\Debug\potrosuvacka kosnicka.exe
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\potrosuvacka kosnicka\potrosuvacka kosnicka\bin\Debug\potrosuvacka kosnicka.pdb
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\potrosuvacka kosnicka\potrosuvacka kosnicka\obj\Debug\potrosuvacka kosnicka.csprojResolveAssemblyReference.cache
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\potrosuvacka kosnicka\potrosuvacka kosnicka\obj\Debug\potrosuvacka_kosnicka.Form1.resources
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\potrosuvacka kosnicka\potrosuvacka kosnicka\obj\Debug\potrosuvacka_kosnicka.NovProdukt.resources
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\potrosuvacka kosnicka\potrosuvacka kosnicka\obj\Debug\potrosuvacka_kosnicka.Properties.Resources.resources
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\potrosuvacka kosnicka\potrosuvacka kosnicka\obj\Debug\potrosuvacka kosnicka.csproj.GenerateResource.Cache
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\potrosuvacka kosnicka\potrosuvacka kosnicka\obj\Debug\potrosuvacka kosnicka.exe
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\potrosuvacka kosnicka\potrosuvacka kosnicka\obj\Debug\potrosuvacka kosnicka.pdb

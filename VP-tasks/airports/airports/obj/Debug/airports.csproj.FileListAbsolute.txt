@@ -1,0 +1,12 @@
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\airports\airports\bin\Debug\airports.exe.config
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\airports\airports\bin\Debug\airports.exe
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\airports\airports\bin\Debug\airports.pdb
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\airports\airports\obj\Debug\airports.csprojResolveAssemblyReference.cache
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\airports\airports\obj\Debug\airports.Form1.resources
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\airports\airports\obj\Debug\airports.Properties.Resources.resources
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\airports\airports\obj\Debug\airports.Нов_аеродром.resources
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\airports\airports\obj\Debug\airports.csproj.GenerateResource.Cache
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\airports\airports\obj\Debug\airports.exe
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\airports\airports\obj\Debug\airports.pdb
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\airports\airports\obj\Debug\airports.Додади_дестинација.resources
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\airports\airports\obj\Debug\airports.Додади_аеродром.resources

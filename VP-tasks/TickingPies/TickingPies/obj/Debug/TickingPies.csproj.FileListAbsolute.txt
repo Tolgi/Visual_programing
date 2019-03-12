@@ -1,0 +1,9 @@
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\TickingPies\TickingPies\bin\Debug\TickingPies.exe.config
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\TickingPies\TickingPies\bin\Debug\TickingPies.exe
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\TickingPies\TickingPies\bin\Debug\TickingPies.pdb
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\TickingPies\TickingPies\obj\Debug\TickingPies.csprojResolveAssemblyReference.cache
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\TickingPies\TickingPies\obj\Debug\TickingPies.Form1.resources
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\TickingPies\TickingPies\obj\Debug\TickingPies.Properties.Resources.resources
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\TickingPies\TickingPies\obj\Debug\TickingPies.csproj.GenerateResource.Cache
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\TickingPies\TickingPies\obj\Debug\TickingPies.exe
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\TickingPies\TickingPies\obj\Debug\TickingPies.pdb

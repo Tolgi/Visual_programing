@@ -1,0 +1,9 @@
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\BallsChaos\BallsChaos\bin\Debug\BallsChaos.exe.config
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\BallsChaos\BallsChaos\bin\Debug\BallsChaos.exe
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\BallsChaos\BallsChaos\bin\Debug\BallsChaos.pdb
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\BallsChaos\BallsChaos\obj\Debug\BallsChaos.csprojResolveAssemblyReference.cache
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\BallsChaos\BallsChaos\obj\Debug\BallsChaos.Form1.resources
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\BallsChaos\BallsChaos\obj\Debug\BallsChaos.Properties.Resources.resources
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\BallsChaos\BallsChaos\obj\Debug\BallsChaos.csproj.GenerateResource.Cache
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\BallsChaos\BallsChaos\obj\Debug\BallsChaos.exe
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\BallsChaos\BallsChaos\obj\Debug\BallsChaos.pdb

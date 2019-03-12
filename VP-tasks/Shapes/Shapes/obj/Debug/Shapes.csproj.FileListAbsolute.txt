@@ -1,0 +1,9 @@
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\Shapes\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\Shapes\Shapes\bin\Debug\Shapes.exe
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\Shapes\Shapes\bin\Debug\Shapes.pdb
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\Shapes\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\Shapes\Shapes\obj\Debug\Shapes.Form1.resources
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\Shapes\Shapes\obj\Debug\Shapes.Properties.Resources.resources
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\Shapes\Shapes\obj\Debug\Shapes.csproj.GenerateResource.Cache
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\Shapes\Shapes\obj\Debug\Shapes.exe
+C:\Users\Viktorija\Desktop\4-smestar\VP\VP-zadaci\Shapes\Shapes\obj\Debug\Shapes.pdb
